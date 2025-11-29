@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasi Aravind!
+👋 Hi, I’m Prasi Aravind!
 
 <!---
 - 👋 Hi, I’m @prasia!
